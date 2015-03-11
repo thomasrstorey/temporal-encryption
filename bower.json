@@ -1,0 +1,27 @@
+{
+  "name": "temporal-encryption",
+  "version": "0.0.0",
+  "homepage": "https://github.com/thomasrstorey/temporal-encryption",
+  "description": "hypertext/hypermedia essay on time, encryption, being, etc",
+  "main": "index.html",
+  "keywords": [
+    "art"
+  ],
+  "authors": [
+    "Thomas R Storey"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "lib/",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.3",
+    "skeleton-css": "~2.0.4"
+  }
+}
